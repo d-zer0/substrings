@@ -1,0 +1,1 @@
+Ruby exercise for The Odin Project (Ruby Building Blocks section).
